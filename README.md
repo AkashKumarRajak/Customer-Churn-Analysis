@@ -13,14 +13,14 @@ The dataset used in this analysis is Customer Churn.csv, which contains customer
 ~Service Usage (monthly charges, total charges, internet service type, etc.)<br>
 ~Churn Label (indicating whether the customer has left the service)<br>
 
-#🛠 Technologies Used:<br>
+🛠 Technologies Used:<br>
 
 ~Python 🐍<br>
 ~Pandas 📊<br>
 ~NumPy 🔢<br>
 ~Matplotlib & Seaborn 📈<br>
 
-#📌 Key Steps in the Project:<br>
+📌 Key Steps in the Project:<br>
 
 1.Data Preprocessing<br>
 
@@ -39,7 +39,7 @@ The dataset used in this analysis is Customer Churn.csv, which contains customer
 ~How do pricing, contract types, and services affect retention?<br>
 ~What actions can be taken to reduce churn?<br>
 
-#📌 How to Run the Notebook<br>
+📌 How to Run the Notebook<br>
 
 1.Install dependencies:<br>
 ~pip install pandas numpy matplotlib seaborn<br>
